@@ -1,0 +1,53 @@
+# python compiled file
+*.pyc
+.eggs
+htmlcov/
+
+# temp editing files
+*.swap
+*.swp
+*.swo
+*.*_cahce
+
+# env dir
+venv
+venv*
+# info
+*.*-info
+
+# build
+build
+
+# distribution files
+dist
+*.egg
+
+# intellij idea project directory
+.idea
+.iml
+
+# log files
+logs
+#*.log
+
+__pycache__
+*pycache*
+.*.sw*
+
+# migration
+migrations
+*.out
+.coverage
+coverage.xml
+.data-mapper-service*
+.scannerwork/*
+.vscode/*
+.vscode
+.pytest_cache/*
+.pytest_cache
+.scannerwork/*
+
+#logs
+*.log
+
+tags
